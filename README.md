@@ -41,6 +41,14 @@ AI Story 是一个基于人工智能的故事视频自动化生成平台。只�
 支持 GPT-5 / Claude 4.7 / DeepSeek / Gemini 等百余款主流模型 <a href="https://5gtoken.com/login?dist=0494ce61a85d0e25" target="_blank" rel="noopener noreferrer">
     </td>
   </tr>
+  <tr>
+    <td width="190" align="center">
+      <a href="https://www.volcengine.com/activity/ai618?utm_source=OWO&utm_medium=devrel-1&utm_campaign=hw&utm_term=ai_story&utm_content=hw" target="_blank" rel="noopener"><img src="docs/images/volc.png" width="163" alt="火山方舟"></a>
+    </td>
+    <td>
+      <strong>感谢字节火山引擎赞助本项目！</strong> 火山方舟 Agent/Coding Plan 国模套餐首购 9.9，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao等，注册免费领2500w Token，统一 API，适配编码与智能体开发。<a href="https://www.volcengine.com/activity/ai618?utm_source=OWO&utm_medium=devrel-1&utm_campaign=hw&utm_term=ai_story&utm_content=hw" target="_blank" rel="noopener noreferrer">立即前往</a>
+    </td>
+  </tr>
 </table>
 
 ---
